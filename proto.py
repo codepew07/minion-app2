@@ -11,5 +11,5 @@ if answer: # Only process logic once something is typed
   else:
         st.info("Well, aren't you quite the annoying one?") 
         time.sleep(2)
-with st.spinner("Here's a surprise for you : https://youtu.be/qxeokP0n6V0?si=xj-pdYlf-kktVUd7"):
-    time.sleep(10)
+        with st.spinner("Here's a surprise for you : https://youtu.be/qxeokP0n6V0?si=xj-pdYlf-kktVUd7"):
+         time.sleep(10)
