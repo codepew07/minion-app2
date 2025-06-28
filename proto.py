@@ -12,7 +12,8 @@ if answer: # Only process logic once something is typed
    with st.spinner("Enjoy.. : https://youtu.be/qxeokP0n6V0?si=xj-pdYlf-kktVUd7"):
        time.sleep(10)
   elif lowered == "no":
-   st.warning("It's your loss that you're so boring.[You weren't invited to join us anyway.]")
+   st.warning("It's your loss that you're so boring.[You weren't invited to join us anyway.]") 
+   time.sleep(2)
    st.info("But, we respect your choice....") 
    time.sleep(2)
    with st.spinner("So we've arranged a surprise for you : https://youtu.be/qxeokP0n6V0?si=xj-pdYlf-kktVUd7"):
