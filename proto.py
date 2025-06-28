@@ -6,7 +6,7 @@ if answer: # Only process logic once something is typed
   lowered = answer.lower()   
   if lowered == "yes":
    st.success("Good Minion! You shall stay alongside me for you have proved your gullibility. Now, let's head to the lab and commence the lunar theft protocol, through which I could set it off on nukes MUAHAHAHA.... *record scratch* wait I- er- didn't know- er- that you'd stick around hehe. I'd obviously 'not' do that. Infact, I would put a humongous leash around it and parade it through the neighbourhood haha. NOW ENOUGH DILLY-DALLYING, GET TO WORK BANANA HEADS!!!")
-   time.sleep(5)
+   time.sleep(8)
    st.info("But, before you go, we'd like to honour your loyalty by presenting you with a *SURPRISE*..") 
    time.sleep(2)
    with st.spinner("Enjoy.. : https://youtu.be/qxeokP0n6V0?si=xj-pdYlf-kktVUd7"):
